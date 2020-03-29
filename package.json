@@ -1,0 +1,33 @@
+{
+  "name": "graphql-express-api",
+  "version": "1.0.0",
+  "description": "API with graphql and backend API intergration",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshirodram/graphql-express-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kshirodram/graphql-express-api/issues"
+  },
+  "homepage": "https://github.com/Kshirodram/graphql-express-api#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.9.0",
+    "apollo-server-express": "^2.11.0",
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "graphql": "^14.6.0",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/register": "^7.9.0"
+  }
+}
