@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Kshirodram/graphql-express-api#readme",
   "dependencies": {
     "@babel/preset-env": "^7.9.0",
-    "apollo-server-express": "^2.11.0",
+    "apollo-server-express": "^2.14.2",
     "axios": "^0.19.2",
     "express": "^4.17.1",
     "graphql": "^14.6.0",
